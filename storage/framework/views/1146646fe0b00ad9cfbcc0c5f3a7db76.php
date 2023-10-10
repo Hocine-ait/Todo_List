@@ -1,0 +1,1 @@
+to delete<?php /**PATH C:\Users\Hocine\Desktop\Projects\first-project\resources\views/todos/delete.blade.php ENDPATH**/ ?>
